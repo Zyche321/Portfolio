@@ -1,0 +1,48 @@
+.html{
+    background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+background-repeat: repeat;
+margin:0;
+
+
+}
+.heading-1 p {
+    padding-left: 3%;
+    font-size: 1.5rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font
+}
+.heading-1 h1 {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3.4rem;
+    line-height: .01em;
+    font-weight: 800;
+    text-decoration:underline;
+    padding-top: 2%;
+    padding-left: 2%;
+    
+    
+}
+.heading-1{
+   
+
+
+}
+.body-2 h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.4rem;
+    line-height: .01em;
+    font-weight: 800;
+    text-decoration:underline;
+    padding-top: 2%;
+    padding-left: 4%
+    
+
+}
+.body-2 p{
+    padding-left: 3%;
+    font-size: 1.2rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
